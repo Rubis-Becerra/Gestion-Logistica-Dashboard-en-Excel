@@ -11,7 +11,6 @@ Este proyecto consiste en el desarrollo de un Dashboard de Gestión Logística o
 
 El dashboard permite a perfiles de negocio y operaciones monitorear KPIs clave, detectar desvíos y tomar decisiones basadas en datos.
 
-
 #### Business Questions
 
 ¿Qué clientes presentan mayores niveles de atraso?  
@@ -105,12 +104,12 @@ El dashboard permite a perfiles de negocio y operaciones monitorear KPIs clave, 
 ---
 
 ## 👩🏻‍💼 Sobre mí
-Soy **Ingeniera Civil con experiencia en gestión de proyectos**, actualmente en transición al mundo de **Data Analytics & Business Intelligence**, estudiante de **Ciencias de Datos**.  
+Soy **Ingeniera Civil con experiencia en gestión de proyectos**, actualmente en transición al mundo de **Data Analytics & Business Intelligence** y estudiante de **Ciencias de Datos**.  
 Mi enfoque combina análisis de datos con **visión de negocio y toma de decisiones estratégicas**.
 
 📫 **Contacto**
 - **LinkedIn**: *www.linkedin.com/in/rubis-becerra*
 - **Portfolio Power BI**: *(agregar link)*
-- **GitHub**: *https://github.com/Rubis-Becerra/Gestion-Ventas-Sales_Dashboard*
+- **GitHub**: *https://github.com/Rubis-Becerra/Gestion-Logistica-Dashboard-en-Excel*
 
 💼 **Abierta a oportunidades laborales en posiciones de Analista de Datos y Business Intelligence**.
