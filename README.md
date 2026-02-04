@@ -1,7 +1,8 @@
 # 📊 Gestión Logística – Dashboard Analítico en Excel
 
 
-#### - Ver Dashboard Interactivo 👉 
+### - Ver Dashboard Interactivo - Excel
+👉 https://github.com/Rubis-Becerra/Gestion-Logistica-Dashboard-en-Excel/blob/main/Gesti%C3%B3n%20de%20Log%C3%ADstica%20Dashboard%20Excel.xlsx
 
 
 ## 🧠 Contexto del Proyecto
@@ -47,13 +48,13 @@ El dashboard permite a perfiles de negocio y operaciones monitorear KPIs clave, 
 
 ## 📸 Views del Dashboard
 ### Gestión Logística
-![Vista General](Dash_GLog1.0.png)
+![Vista General](Das_views/Dash_GLog1.0.png)
 
-![Cliente - MagZen](Dash_GLog1.1.png)
+![Cliente - MagZen](Das_views/Dash_GLog1.1.png)
 
-![Cliente - Rickstore](Dash_GLog1.2.png)
+![Cliente - Rickstore](Das_views/Dash_GLog1.2.png)
 
-![Cliente - TiendasSim](Dash_GLog1.3.png)
+![Cliente - TiendasSim](Das_views/Dash_GLog1.3.png)
 
 ---
 
